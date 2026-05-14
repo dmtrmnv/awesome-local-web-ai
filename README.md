@@ -26,9 +26,7 @@
 - [wllama](https://github.com/ngxson/wllama) – Run GGUF models directly in the browser with WASM + WebGPU. Simple API, streaming, chat templates.
 - [Transformers.js](https://github.com/huggingface/transformers.js) – Hugging Face ecosystem for the browser. Supports LLMs, vision, audio & embeddings (ONNX/WASM/WebGPU).
 - [Mozilla AI](https://github.com/mozilla-ai) – Privacy-focused browser AI framework. Includes `wasm-agents-blueprint` for local agent workflows.
-- [MediaPipe LLM Inference](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/web) – Google's optimized solution for mobile & desktop browsers.
 - [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/) – Cross-browser ML runtime with WebGPU/WASM acceleration.
-- [llama.cpp (WASM/WebGPU port)](https://github.com/ggerganov/llama.cpp/tree/master/emscripten) – Reference C++ implementation compiled to WebAssembly. DIY-friendly.
 
 ## 📦 Models & Weights
 - [GGUF Models (Browser-Ready)](https://huggingface.co/models?library=gguf&sort=trending) – Quantized models optimized for `wllama` & `llama.cpp`. Look for `≤7B` & `Q4_K_M`.
@@ -46,26 +44,21 @@
 - [Optimum CLI](https://huggingface.co/docs/optimum) – Convert Hugging Face models to ONNX/Web-ready formats.
 - [MLC LLM Compiler](https://github.com/mlc-ai/mlc-llm) – Compile models to MLC format for `WebLLM`.
 - [llama.cpp GGUF Tools](https://github.com/ggerganov/llama.cpp) – Quantize, split, and validate GGUF files.
-- [WebGPU Inspector](https://github.com/google/webgpu-inspector) – Debug WebGPU support & performance in browsers.
-- [Browser AI Benchmark Suite](https://github.com/webml-community/webgpu-llm-benchmark) – Measure tok/s, memory & latency across frameworks.
 
 ## 🌐 Demos & Examples
 - [WebLLM Playground](https://huggingface.co/spaces/mlc-ai/webllm-playground) – Official interactive demo.
-- [Transformers.js Examples](https://huggingface.co/docs/transformers.js/examples) – Code snippets for chat, classification, embeddings & more.
-- [wllama React/Vite Template](https://github.com/ngxson/wllama/tree/main/examples) – Quickstart projects.
+- [Transformers.js Examples](https://github.com/huggingface/transformers.js-examples) – Code snippets for chat, classification, embeddings & more.
+- [wllama](https://github.com/ngxson/wllama)) – Quickstart projects.
 - [Mozilla wasm-agents Demo](https://github.com/mozilla-ai/wasm-agents-blueprint) – Local AI agents running in-browser.
 - [Community WebGPU Spaces](https://huggingface.co/spaces?search=webgpu+llm) – User-submitted experiments.
 
 ## 📚 Learning & Tutorials
 - [Transformers.js Documentation](https://huggingface.co/docs/transformers.js)
 - [WebLLM Docs & Guides](https://webllm.mlc.ai/)
-- [WebGPU for Machine Learning](https://developer.chrome.com/blog/webgpu-ml/)
-- [Running GGUF in the Browser (wllama)](https://github.com/ngxson/wllama#readme)
 - [Mozilla AI Blog](https://blog.mozilla.ai/)
 - [WebNN Intro & Explainer](https://webmachinelearning.github.io/webnn-intro/)
 
 ## 🤝 Communities & News
-- 🐦 **Twitter/X:** `@mlc_ai`, `@huggingface`, `@ggerganov`, `@ngxson`, `@mozilla`
 - 📡 **Reddit:** `r/LocalLLaMA`, `r/MachineLearning`, `r/webdev`
 - 💬 **Discord:** Hugging Face, MLC AI, Local AI Community
 - 📰 **Newsletters:** TLDR AI, The Batch (DeepLearning.AI), Hugging Face Weekly
