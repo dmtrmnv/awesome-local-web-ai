@@ -16,7 +16,8 @@ Thank you for your interest! Please follow these guidelines to keep the list hig
 
 ## 📝 Format
 Use this markdown structure:
-- [Name](URL) – Short description (max 1 sentence). Focus on browser relevance.
+````markdown
+- [Name](URL) – Short description (max 5 sentences). Focus on browser relevance.
 
 ## 🚀 How to Submit
 1. Fork the repo
