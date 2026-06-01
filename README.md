@@ -101,6 +101,7 @@
 - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) – Stable Diffusion models running entirely in browser with WebGPU. Text-to-image with zero server support. From the same team as WebLLM. [Demo](https://websd.mlc.ai).
 - [Janus-Pro-1B](https://huggingface.co/spaces/webml-community/janus-pro-webgpu) – DeepSeek's unified model that both understands and generates images. The first model combining vision and image generation in browser.
 - [Z-Image Turbo](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/From-U-Net-to-DiT-Z-Image-Turbo-Runs-in-Your-Browser/post/1743862) – DiT-based image generation model optimized for browser on Intel AI PCs via WebGPU.
+- [Removerized]([https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/From-U-Net-to-DiT-Z-Image-Turbo-Runs-in-Your-Browser/post/1743862](https://github.com/yossTheDev/removerized)) – is an open-source, local-first AI image toolkit that runs entirely in the browser using ONNX Runtime Web.
 
 ### Vision Understanding
 - [Qwen3.5-VL WebGPU](https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU) – Multimodal vision-language model for image understanding in browser.
