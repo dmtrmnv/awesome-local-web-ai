@@ -92,6 +92,9 @@
 - [Kokoro TTS WebGPU](https://huggingface.co/spaces/webml-community/kokoro-webgpu) – Kokoro (82M parameter) TTS model running locally in browser via WebGPU. ~1 second for 10 seconds of speech.
 - [TTSLab](https://news.ycombinator.com/item?id=47123980) – Open-source tool running both TTS and STT models in browser via WebGPU and WASM. Integrated voice AI agent lab.
 
+### Speech Enhancement
+- [QuietTake Noise Remover](https://noiseremover.site/) – Free browser-local speech noise reduction using RNNoise/WASM, with original/cleaned playback and 48 kHz 16-bit WAV export. Each file must be 50 MB or smaller and five minutes or shorter; input decoding depends on browser codecs. No account or audio upload is required.
+
 ### Voice Assistants
 - Combine Whisper WebGPU + LLM (via WebLLM/Transformers.js) + Kokoro TTS for a complete voice assistant pipeline running entirely client-side.
 
