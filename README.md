@@ -44,6 +44,7 @@
 ### Computer Vision & General ML
 - [TensorFlow.js](https://github.com/tensorflow/tfjs) – Google's WebGL/WebGPU-accelerated ML library for JavaScript. Supports both training and inference in browser. The most mature framework for computer vision, audio, and custom models.
 - [Roboflow Inference.js](https://github.com/roboflow/inference) – Browser-based real-time computer vision inference SDK. Run YOLO, segmentation, and classification models directly in the browser. [Presented at Web AI Summit 2024](https://web.dev/blog/web-ai-summit-2024-recap).
+- [ClearPix](https://clearpix.org) – Free in-browser watermark remover, object eraser, subtitle cleaner and 4× upscaler. MI-GAN/LaMa/Real-ESRGAN run client-side via ONNX Runtime Web (WebGPU, WASM fallback); images never leave the device. MIT-licensed core.
 
 ### Research & Experimental
 - [WeInfer](https://github.com/csAugust/WeInfer) – Research WebGPU optimization framework for LLM inference in browsers. Introduces uniform buffer optimization and WebGPU-specific improvements. [Published at WWW 2025](https://dl.acm.org/doi/10.1145/3696410.3714553).
